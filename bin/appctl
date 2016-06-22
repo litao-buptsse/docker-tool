@@ -67,7 +67,7 @@ case $op in
     stop
     exit $?
     ;;
-  retart)
+  restart)
     restart
     exit $?
     ;;
